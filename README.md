@@ -1,4 +1,5 @@
-<h1>Oii eu sou André Lima, estudante de programação!!</h1> 💻
+<h1>Oi eu sou André Lima</h1> 💻
+<h2> Desenvolvedor e Estudante de programação 😀💻</h2>
 
 <div align="center">
 <div align="center">
